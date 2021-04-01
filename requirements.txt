@@ -1,0 +1,3 @@
+git=https://github.com/Galahad3x/DiscordBot
+discord.py
+python-dotenv
